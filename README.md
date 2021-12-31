@@ -1,6 +1,6 @@
 The goal of this project is to display colorful patterns on a strip of WS2812 or SK6812 RGB LEDs (aka NeoPixels) without the help of an MCU.
 
-![assembled project](images/punk-console-assembled.jpg)
+![assembled project](images/punk-console-finished.jpg)
 
 This repository contains the design files for the hardware.
 * [punk-console-main](neopixel-punk-main): RGB LED driver circuit
