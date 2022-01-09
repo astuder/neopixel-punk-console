@@ -11,4 +11,5 @@ This repository contains the design files for the hardware.
 Both folders contain a PDF of the schematic and the EDA project created with [KiCad](https://www.kicad.org/) version 6.0.
 
 A detailed discussion of the design is published [here](https://hackaday.io/project/183093-neopixel-punk-console).
+
 Featured on [Hackaday](https://hackaday.com/2022/01/01/neopixel-punk-console-drives-ws2812s-using-555-timers/)
